@@ -7,5 +7,4 @@ But not cats
 
 (We like dogs better anyway)
 
-This is feature 123a
-
+This is feature 123a, just for Winnie
